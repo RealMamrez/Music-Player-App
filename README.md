@@ -1,5 +1,4 @@
 # Weather App! v.beta
-
 A **Music Player** developed with HTML, CSS and JavaScript!
 
 # Screen Shots!
